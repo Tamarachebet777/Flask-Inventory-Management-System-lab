@@ -18,3 +18,7 @@ An external API integration to fetch product details by barcode or name.
 A CLI-based interface to interact with the API.
 Unit tests to validate functionality and interactions.
 
+Steps
+1 Create a repository
+2 Clone the repository
+3

@@ -5,7 +5,7 @@ from models import db, Item
 inventory_bp = Blueprint('inventory', __name__)
 
 
-# pull product info from openfoodfacts by barcode
+
 def get_product_by_barcode(barcode):
     try:
         res = requests.get(
